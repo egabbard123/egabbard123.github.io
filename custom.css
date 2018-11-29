@@ -1,0 +1,52 @@
+header {
+    background-color: #99badd;
+   
+}
+
+.site-title {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 2em;
+    padding-left: 1em;
+    padding-bottom: .75em;
+    text-align: center !important;
+    
+}
+
+.navbar, navbar-light, bg-light {
+    background-color: #99badd !important;
+    display: flex;
+    align-items: center;
+   
+}
+
+.navbar-brand{
+    font-family: 'Roboto', sans-serif;
+    color: white !important;
+}
+.nav-item {
+    padding: 0 1em 0 1em;
+}
+
+a.nav-link {
+    color: white !important;
+}
+
+a.nav-link:hover {
+    color: #57752B !important;
+}
+a.nav-link:active {
+    color: #57752B !important;
+}
+
+.card-title {
+    background-color: #99badd;
+    color: white;
+}
+.card-text {
+    background: #CADCEB;
+}
+img {
+    max-height: 110px;
+    max-width: 110px;
+    align-content: center;
+}
